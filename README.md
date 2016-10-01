@@ -35,10 +35,11 @@ You can easily find a Makefile in stat159-fall2016-project1 directory.
 <img src="/images/stat159-logo.png" height="100" /> 
 </p>
 **Minsu Kim**
-<p> University of California, Berkeley </p>
-<p> Berkeley CA, 94072 USA </p>
-<p> kaj011@berkeley.edu </p>
-
+<div>
+University of California, Berkeley </br>
+Berkeley CA, 94072 USA </br>
+kaj011@berkeley.edu
+</div>
 ### LICENSE
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
