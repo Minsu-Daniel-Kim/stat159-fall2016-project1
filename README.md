@@ -22,16 +22,14 @@ You can easily find a Makefile in stat159-fall2016-project1 directory.
 >	* 1.3 GitHub
 >	* 1.4 Pandoc
 >	* 1.5 Markdown
-> # 2. Discussion
+> * 2. Discussion
 >	* 2.1 Resources I used
 >	* 2.2 Easy parts
 >	* 2.3 Challenging parts
 >	* 2.4 Time consuming parts
 >	* 2.5 How much time I spent
-
-### LICENSE
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+> * 3. Conclusions
+> * References
 
 <p>
 <img src="/images/stat159-logo.png" height="100" /> 
@@ -40,3 +38,7 @@ You can easily find a Makefile in stat159-fall2016-project1 directory.
 <p> University of California, Berkeley </p>
 <p> Berkeley CA, 94072 USA </p>
 <p> kaj011@berkeley.edu </p>
+
+### LICENSE
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
