@@ -1,7 +1,7 @@
 
 <div align="center"> STAT159 Project Report </div>
 <p align="center">
-<img src="images/stat159-logo.png" height="100" /> 
+<img src="../images/stat159-logo.png" height="100" /> 
 </p>
 <div align="center"> Minsu Kim </div>
 <div align="center"> University of California, Berkeley </div>
