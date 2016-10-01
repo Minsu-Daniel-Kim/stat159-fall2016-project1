@@ -3,9 +3,9 @@
 <img src="/images/stat159-logo.png" height="100" /> 
 </p>
 Minsu Kim
-<div> University of California, Berkeley </div>
-<div> Berkeley CA, 94072 USA </div>
-<div> kaj011@berkeley.edu </div>
+<p> University of California, Berkeley </p>
+<p> Berkeley CA, 94072 USA </p>
+<p> kaj011@berkeley.edu </p>
 
 ### Objective 
 This project provides an opportunity to practice with the computational tools covered so far in the
