@@ -1,5 +1,15 @@
 
+<p align="center">
 <img src="../../images/stat159-logo.png" height="100" /> 
+**STAT159 Project Report**
+Minsu Kim
+University of California, Berkeley
+Berkeley CA, 94072 USA
+kaj011@berkeley.edu
+
+</p>
+
+
 
 # Abstract
 
