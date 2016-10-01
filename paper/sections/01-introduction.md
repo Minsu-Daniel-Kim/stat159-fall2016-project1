@@ -9,8 +9,7 @@ A Makefile is a file containing a set of directives used with the make build aut
 
 Suppose you are analyzing users’ behavioral patterns in a certain social network service. You are planning to do an exploratory analysis, preprocess data, implement models and write a report. So, you want to first create several, separate folders and files in order to decouple so that files-management would be easier and neater. Also, since your files depend on each other, you should deal with dependency. Furthermore, some scripts take long time to compile, and therefore, you want them to be recompiled only when they are changed. Lastly, you want your readers to easily reproduce this step through one single command that automatically make your project structure all at once. This is a right time to use “Make” and “Makefile”.
 
-## 1.2 Git
-![alt text](../../images/git-logo.png "Logo Title Text 1")
+## 1.2 Git ![](../../images/git-logo.png =100x20)
 Git is a version control system that is used for software development. [3] For example, during the course of your project, you want to keep track of your work by saving your code files on a regular basis. One of the benefits of using Git is that you can always add new changes and undo changes so that even if your files corrupted or you made mistakes such as accidentally deleting files, you can always go back to clean states. Also, you can make branches to work on features separately and then merge branches together later. This helps you divide and conquer piece by piece. Furthermore, since Git keeps track of your changes, you can create different versions. Suppose you want to write a script that calculates the retention rate of user. You can write it in several different ways. Then, you can create branches dedicated to different versions of the script. Later, you can choose one of them and merge it into your master branch. Not only that, you can easily see the commit messages you wrote for your commits. 
 
 ## 1.3 GitHub
