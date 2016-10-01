@@ -1,4 +1,11 @@
 ## STAT159 Project Report
+<p align="center">
+<img src="/images/stat159-logo.png" height="100" /> 
+</p>
+<div align="center"> Minsu Kim </div>
+<div align="center"> University of California, Berkeley </div>
+<div align="center"> Berkeley CA, 94072 USA </div>
+<div align="center"> kaj011@berkeley.edu </div>
 
 ### Objective 
 This project provides an opportunity to practice with the computational tools covered so far in the
@@ -16,22 +23,20 @@ You can easily find a Makefile in stat159-fall2016-project1 directory.
 
 ### Structure of the paper
 
-* 0. Abstract
-* 1. Introduction
-	* 1.1 Makefile
-	* 1.2 Git
-	* 1.3 GitHub
-	* 1.4 Pandoc
-	* 1.5 Markdown
-# 2. Discussion
-	* 2.1 Resources I used
-	* 2.2 Easy parts
-	* 2.3 Challenging parts
-	* 2.4 Time consuming parts
-	* 2.5 How much time I spent
+> * 0. Abstract
+> * 1. Introduction
+>	* 1.1 Makefile
+>	* 1.2 Git
+>	* 1.3 GitHub
+>	* 1.4 Pandoc
+>	* 1.5 Markdown
+> # 2. Discussion
+>	* 2.1 Resources I used
+>	* 2.2 Easy parts
+>	* 2.3 Challenging parts
+>	* 2.4 Time consuming parts
+>	* 2.5 How much time I spent
 
 ### LICENSE
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-Author: **Minsu Kim**
