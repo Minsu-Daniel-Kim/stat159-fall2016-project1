@@ -1,13 +1,15 @@
 
+# **STAT159 Project Report**
+
 <p align="center">
 <img src="../../images/stat159-logo.png" height="100" /> 
-<div> **STAT159 Project Report** </div> 
-<div> Minsu Kim </div>
-<div> University of California, Berkeley </div>
-<div> Berkeley CA, 94072 USA </div>
-<div> kaj011@berkeley.edu </div>
-
 </p>
+<div align="center"> Minsu Kim </div>
+<div align="center"> University of California, Berkeley </div>
+<div align="center"> Berkeley CA, 94072 USA </div>
+<div align="center"> kaj011@berkeley.edu </div>
+
+
 
 
 
