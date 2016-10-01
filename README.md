@@ -22,14 +22,14 @@ You can easily find a Makefile in stat159-fall2016-project1 directory.
 >	* 1.3 GitHub
 >	* 1.4 Pandoc
 >	* 1.5 Markdown
-> * 2. Discussion
+> 2. Discussion
 >	* 2.1 Resources I used
 >	* 2.2 Easy parts
 >	* 2.3 Challenging parts
 >	* 2.4 Time consuming parts
 >	* 2.5 How much time I spent
-> * 3. Conclusions
-> * References
+> 3. Conclusions
+> References
 
 <p>
 <img src="/images/stat159-logo.png" height="100" /> 
