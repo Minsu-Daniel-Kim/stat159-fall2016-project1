@@ -1,10 +1,11 @@
 ## STAT159 Project Report
-
+<p>
 <img src="/images/stat159-logo.png" height="100" /> 
+</p>
 Minsu Kim
-University of California, Berkeley
-Berkeley CA, 94072 USA
-kaj011@berkeley.edu
+<div> University of California, Berkeley </div>
+<div> Berkeley CA, 94072 USA </div>
+<div> kaj011@berkeley.edu </div>
 
 ### Objective 
 This project provides an opportunity to practice with the computational tools covered so far in the
