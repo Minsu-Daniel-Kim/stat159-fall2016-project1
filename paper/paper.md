@@ -43,10 +43,13 @@ I have already been exposed to Makefile, Git and GitHub from my computer science
 ### 2.3 Challenging parts
 When I first encountered these concepts such as branching, merging and pushing, it took me a while to digest. One of things that helped me understand during that time was to use visualizations to understand the workflow graphically. Also, since I did not often use makefiles, I had to go over some tutorials to get used to both syntax and structure.
 
-### 2.4 Time consuming parts
+### 2.4 Things I was stuck with
+Since the instruction was straightforward and there are a lot of resources and tutorials available online, I was not really stuck with anything. But as I mentioned on 2.3, I spent some time to digest the conceptual part of Git and GitHub.
+
+### 2.5 Time consuming parts
 Installation was very straightforward and easy, and some of them were pre-installed in OSX. Time consuming part was to make a well-formatted markdown file. It involved a trial and error process. But overall, everything was quite intuitive and thanks to the tutorials, I could seamlessly go through all parts.
 
-### 2.5 How much time I spent
+### 2.6 How much time I spent
 I spent eight hours in total. To decompose the time I spent, 1) 1 hour to install all the relevant programs. 2) 2 hours to go over concepts. 3) 2 hours to have a hands-on experience. 4) 3 hours to write a report.
 ## 3. Conclusion
 

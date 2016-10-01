@@ -26,8 +26,9 @@ You can easily find a Makefile in stat159-fall2016-project1 directory.
 >	* 2.1 Resources I used
 >	* 2.2 Easy parts
 >	* 2.3 Challenging parts
->	* 2.4 Time consuming parts
->	* 2.5 How much time I spent
+>	* 2.4 Things I was stuck with
+>	* 2.5 Time consuming parts
+>	* 2.6 How much time I spent
 > * 3. Conclusions
 > * References
 
