@@ -31,11 +31,10 @@ You can easily find a Makefile in stat159-fall2016-project1 directory.
 > * 3. Conclusions
 > * References
 
-
-**Minsu Kim**
 <p>
 <img src="/images/stat159-logo.png" height="100" /> 
 </p>
+**Minsu Kim**
 <div>
 University of California, Berkeley </br>
 Berkeley CA, 94072 USA </br>
