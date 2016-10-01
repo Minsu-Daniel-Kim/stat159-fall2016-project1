@@ -1,18 +1,16 @@
 ## STAT159 Project Report
-<p align="center">
+
 <img src="/images/stat159-logo.png" height="100" /> 
-</p>
-<div align="center"> Minsu Kim </div>
-<div align="center"> University of California, Berkeley </div>
-<div align="center"> Berkeley CA, 94072 USA </div>
-<div align="center"> kaj011@berkeley.edu </div>
+Minsu Kim
+University of California, Berkeley
+Berkeley CA, 94072 USA
+kaj011@berkeley.edu
 
 ### Objective 
 This project provides an opportunity to practice with the computational tools covered so far in the
 course: bash, markdown, pandoc, git, github, Make, and a text editor. Also, this project outputs a paper that explains about basic tools for reproducible workflow
 
 Course website: [gastonsanchez.com/stat159](http://gastonsanchez.com/stat159)
-
 Instruction: [github project repository](https://github.com/ucb-stat159/stat159-fall-2016/tree/master/projects)
 
 ### How to generate paper.md, paper.html
