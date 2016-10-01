@@ -15,8 +15,8 @@ You can easily find a Makefile in stat159-fall2016-project1 directory.
 
 ### Structure of the paper
 
-> * 0. Abstract
-> * 1. Introduction
+> 0. Abstract
+> 1. Introduction
 >	* 1.1 Makefile
 >	* 1.2 Git
 >	* 1.3 GitHub
