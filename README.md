@@ -4,8 +4,8 @@
 This project provides an opportunity to practice with the computational tools covered so far in the
 course: bash, markdown, pandoc, git, github, Make, and a text editor. Also, this project outputs a paper that explains about basic tools for reproducible workflow
 
-Course website: [gastonsanchez.com/stat159](http://gastonsanchez.com/stat159)
 Instruction: [github project repository](https://github.com/ucb-stat159/stat159-fall-2016/tree/master/projects)
+Course website: [gastonsanchez.com/stat159](http://gastonsanchez.com/stat159)
 
 ### How to generate paper.md, paper.html
 You can easily find a Makefile in stat159-fall2016-project1 directory. 
@@ -31,10 +31,11 @@ You can easily find a Makefile in stat159-fall2016-project1 directory.
 > * 3. Conclusions
 > * References
 
+
+**Minsu Kim**
 <p>
 <img src="/images/stat159-logo.png" height="100" /> 
 </p>
-**Minsu Kim**
 <div>
 University of California, Berkeley </br>
 Berkeley CA, 94072 USA </br>
