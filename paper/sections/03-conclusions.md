@@ -1,8 +1,8 @@
-# 3. Conclusion
+## 3. Conclusion
 
 In this paper, I provide five basic tools for reproducible workflow for your project or research. There tools cover from making directories and files to managing your codes through Git and collaborating with others using GitHub. Once you get used to these tools, you can effectively take advantage of them for in your daily reproducible workflow.
 
-## References
+### References
 
 1. "Introduction to GNU Makefiles". https://www.gnu.org/software/make/manual/make.html#Introduction
 

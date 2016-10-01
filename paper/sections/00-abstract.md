@@ -1,5 +1,5 @@
 
-<p align="center"> STAT159 Project Report </p>
+### <p align="center"> STAT159 Project Report </p>
 <p align="center">
 <img src="/images/stat159-logo.png" height="100" /> 
 </p>

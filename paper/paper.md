@@ -1,5 +1,5 @@
 
-<p align="center"> STAT159 Project Report </p>
+### <p align="center"> STAT159 Project Report </p>
 <p align="center">
 <img src="/images/stat159-logo.png" height="100" /> 
 </p>
@@ -50,11 +50,11 @@ Installation was very straightforward and easy, and some of them are pre-install
 
 ### 2.5 How much time I spent
 I spent eight hours in total. To decompose the time I spent, 1) 1 hour to install all the relevant programs. 2) 2 hours to go over concepts. 3) 2 hours to have a hands-on experience. 4) 3 hours to write a report.
-# 3. Conclusion
+## 3. Conclusion
 
 In this paper, I provide five basic tools for reproducible workflow for your project or research. There tools cover from making directories and files to managing your codes through Git and collaborating with others using GitHub. Once you get used to these tools, you can effectively take advantage of them for in your daily reproducible workflow.
 
-## References
+### References
 
 1. "Introduction to GNU Makefiles". https://www.gnu.org/software/make/manual/make.html#Introduction
 
